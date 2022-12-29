@@ -2,9 +2,8 @@
 
 A Flutter project.
 
-## Getting Started
+## Fetching data from API showing it on screen and applying search system based on NAME OF USERS.
 
-Fetching data from API showing it on screen and applying search system based on NAME OF USERS.
 
 A few resources to get you started if this is your first Flutter project:
 
