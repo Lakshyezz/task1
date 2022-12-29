@@ -12,6 +12,7 @@ class DataBaseHandler {
   DataBaseHandler._internal(); //
 
   Future<Database?> openDB() async {
-    _database = await openDatabase(join(await getDatabasesPath(), "user.db"));
+    _database = await openDatabase(join(await getDatabasesPath(), "User.db"));
+    return _database;
   }
 }
